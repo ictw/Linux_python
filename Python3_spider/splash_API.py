@@ -1,10 +1,7 @@
 import requests
 from urllib.parse import quote
 
-
 # render.html的详细api参数在https://splash.readthedocs.io/en/stable/api.html#render.html
-
-
 def easyDemo():
     # render接口基本用法
     url = 'http://0.0.0.0:8050/render.html?url=https://www.baidu.com'
