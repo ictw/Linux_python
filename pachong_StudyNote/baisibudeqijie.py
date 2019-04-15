@@ -5,7 +5,6 @@ from urllib import request
 import threading
 from queue import Queue
 
-
 class MainThread(threading.Thread):
     headers = {
         'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Mobile Safari/537.36'
