@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/pachong_StudyNote/urllibDemo.py" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/pachong_StudyNote/cookieDemo.py" line="70" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a27d6899-71b6-4867-83c7-459162597547" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Linux_python$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1554512846623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$zhongguogushiciwang.coverage" NAME="zhongguogushiciwang Coverage Results" MODIFIED="1552912862968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$test.coverage" NAME="test Coverage Results" MODIFIED="1553691086445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$handle_mongo.coverage" NAME="handle_mongo Coverage Results" MODIFIED="1549884312106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP数据抓取" />
+    <SUITE FILE_PATH="coverage/Linux_python$cookieDemo.coverage" NAME="cookieDemo Coverage Results" MODIFIED="1549960702415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$fessdfds.coverage" NAME="fessdfds Coverage Results" MODIFIED="1550385819045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$mongoDB.coverage" NAME="mongoDB Coverage Results" MODIFIED="1552635153707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP数据抓取" />
+    <SUITE FILE_PATH="coverage/Linux_python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1554031389308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3_spider" />
+    <SUITE FILE_PATH="coverage/Linux_python$bs4_find_Demo.coverage" NAME="bs4_find_Demo Coverage Results" MODIFIED="1550926617218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$toutiao_jiepai.coverage" NAME="toutiao_jiepai Coverage Results" MODIFIED="1554808666013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3_spider" />
+    <SUITE FILE_PATH="coverage/Linux_python$flask_demo.coverage" NAME="flask_demo Coverage Results" MODIFIED="1553827060078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$requestlibDemo1.coverage" NAME="requestlibDemo1 Coverage Results" MODIFIED="1553168765505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$seleniumDemo_cookie.coverage" NAME="seleniumDemo_cookie Coverage Results" MODIFIED="1553172568027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$csvfile.coverage" NAME="csvfile Coverage Results" MODIFIED="1552477766232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$lxml_analyzeDemo.coverage" NAME="lxml_analyzeDemo Coverage Results" MODIFIED="1550037960590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$ocrDemo.coverage" NAME="ocrDemo Coverage Results" MODIFIED="1553598761812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$Redis.coverage" NAME="Redis Coverage Results" MODIFIED="1554636805755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$douban.coverage" NAME="douban Coverage Results" MODIFIED="1550122993106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$seleniumDemo_open_tabs.coverage" NAME="seleniumDemo_open_tabs Coverage Results" MODIFIED="1553171915473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$seleniumDemo.coverage" NAME="seleniumDemo Coverage Results" MODIFIED="1554809745086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$Splash_API.coverage" NAME="Splash_API Coverage Results" MODIFIED="1555328755117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3_spider" />
+    <SUITE FILE_PATH="coverage/Linux_python$bs4_select_Demo.coverage" NAME="bs4_select_Demo Coverage Results" MODIFIED="1550306601551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$dianyingtiantang.coverage" NAME="dianyingtiantang Coverage Results" MODIFIED="1550139597994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$proxyDemo.coverage" NAME="proxyDemo Coverage Results" MODIFIED="1549958543999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$12306_buy.coverage" NAME="12306_buy Coverage Results" MODIFIED="1554116067702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$douguomeishi_Demo.coverage" NAME="douguomeishi_Demo Coverage Results" MODIFIED="1549884821810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/APP数据抓取" />
+    <SUITE FILE_PATH="coverage/Linux_python$ThreadDemo2.coverage" NAME="ThreadDemo2 Coverage Results" MODIFIED="1552564054494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1553515243078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$regexDemo.coverage" NAME="regexDemo Coverage Results" MODIFIED="1551872368999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$80s.coverage" NAME="80s Coverage Results" MODIFIED="1550140883237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote/exercise" />
+    <SUITE FILE_PATH="coverage/Linux_python$doutula.coverage" NAME="doutula Coverage Results" MODIFIED="1552999572096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$wangluojioaoxuepingtai.coverage" NAME="wangluojioaoxuepingtai Coverage Results" MODIFIED="1552635184061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$connection.coverage" NAME="connection Coverage Results" MODIFIED="1554636428015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis" />
+    <SUITE FILE_PATH="coverage/Linux_python$pymysql.coverage" NAME="pymysql Coverage Results" MODIFIED="1552479098234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$baisibudeqijie.coverage" NAME="baisibudeqijie Coverage Results" MODIFIED="1553002127762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$bs4Demo.coverage" NAME="bs4Demo Coverage Results" MODIFIED="1550289042700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$zhonguotianqiwang.coverage" NAME="zhonguotianqiwang Coverage Results" MODIFIED="1550925706925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote/Other" />
+    <SUITE FILE_PATH="coverage/Linux_python$RegexTest.coverage" NAME="RegexTest Coverage Results" MODIFIED="1551056442494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote/Other" />
+    <SUITE FILE_PATH="coverage/Linux_python$maoyan.coverage" NAME="maoyan Coverage Results" MODIFIED="1554014304576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3_spider" />
+    <SUITE FILE_PATH="coverage/Linux_python$ThreadDemo.coverage" NAME="ThreadDemo Coverage Results" MODIFIED="1552635269854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Linux_python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1554013080086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python3_spider" />
+    <SUITE FILE_PATH="coverage/Linux_python$urllibDemo.coverage" NAME="urllibDemo Coverage Results" MODIFIED="1549881970464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$jsonfile.coverage" NAME="jsonfile Coverage Results" MODIFIED="1552477809212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+    <SUITE FILE_PATH="coverage/Linux_python$seleniumDemo_wait.coverage" NAME="seleniumDemo_wait Coverage Results" MODIFIED="1553170945703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pachong_StudyNote" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="test: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Linux_python" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python3_spider/splash_API.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;</find>
+      <find>spider_queue</find>
+      <find>玩吧</find>
+      <find>}</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>},</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Python3_spider/splash_API.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pachong_StudyNote/seleniumDemo.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pachong_StudyNote/dianyingtiantang.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Other/tencent.html" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/bs4Demo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/bs4_select_Demo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/fessdfds.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Other/zhonguotianqiwang.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/zhonguotianqiwang.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/bs4_find_Demo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Other/RegexTest.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/regexDemo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/wangluojioaoxuepingtai.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d67904d1-749c-46b7-a57f-98b89d98a2b6/console.sql" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Other/user.csv" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/csvfile.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/jsonfile.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/pymysql.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/ThreadDemo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/proxyDemo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/ThreadDemo2.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Other/csvfile_1.csv" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Other/persons" />
+        <option value="$PROJECT_DIR$/APP数据抓取/mongoDB.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/zhongguogushiciwang.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/baisibudeqijie_______.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/baisibudeqijie.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/doutula.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/SeleiumDemo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/requestlibDemo1.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_cookie.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_open_tabs.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_cookie and proxy.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/lagou.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/boss_zhipin.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/ocrDemo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/test.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/flask_demo.py" />
+        <option value="$PROJECT_DIR$/Python3_spider/test2.py" />
+        <option value="$PROJECT_DIR$/Python3_spider/maoyan.py" />
+        <option value="$PROJECT_DIR$/Python3_spider/Other/maoyan_top100.json" />
+        <option value="$PROJECT_DIR$/Python3_spider/test.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/12306_buy.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/mysql.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/Redis.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/iedis/Preview_1.txt" />
+        <option value="$PROJECT_DIR$/Python3_spider/toutiao_jiepai.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_wait.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/seleniumDemo.py" />
+        <option value="$PROJECT_DIR$/pachong_StudyNote/fsf.md" />
+        <option value="$PROJECT_DIR$/Python3_spider/Splash_API.py" />
+        <option value="$PROJECT_DIR$/Python3_spider/splash_API.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="456" />
+    <option name="y" value="23" />
+    <option name="width" value="1211" />
+    <option name="height" value="538" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Linux_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linux_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linux_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Linux_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Python3_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Linux_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="OPEN_URL_DIALOG">
+      <recent name="https://www.bilibili.com" />
+      <recent name="https://www.baidu.com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pachong_StudyNote" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Splash_API">
+    <configuration name="Redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Linux_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pachong_StudyNote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pachong_StudyNote/Redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Splash_API" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Linux_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3_spider/splash_API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baisibudeqijie" type="PythonConfigurationType" factoryName="Python">
+      <module name="Linux_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pachong_StudyNote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pachong_StudyNote/baisibudeqijie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Linux_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis/connection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seleniumDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Linux_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pachong_StudyNote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pachong_StudyNote/seleniumDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="toutiao_jiepai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Linux_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python3_spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python3_spider/toutiao_jiepai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.baisibudeqijie" />
+      <item itemvalue="Python.Redis" />
+      <item itemvalue="Python.connection" />
+      <item itemvalue="Python.toutiao_jiepai" />
+      <item itemvalue="Python.seleniumDemo" />
+      <item itemvalue="Python.Splash_API" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Splash_API" />
+        <item itemvalue="Python.seleniumDemo" />
+        <item itemvalue="Python.toutiao_jiepai" />
+        <item itemvalue="Python.Redis" />
+        <item itemvalue="Python.connection" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27d6899-71b6-4867-83c7-459162597547" name="Default Changelist" comment="" />
+      <created>1549610532921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549610532921</updated>
+      <workItem from="1549610535449" duration="23000" />
+      <workItem from="1549610591554" duration="6000" />
+      <workItem from="1549610920959" duration="4000" />
+      <workItem from="1549620877773" duration="1997000" />
+      <workItem from="1549707520653" duration="4755000" />
+      <workItem from="1549769937803" duration="2000" />
+      <workItem from="1549778260811" duration="12547000" />
+      <workItem from="1549874356716" duration="5179000" />
+      <workItem from="1549882795597" duration="2145000" />
+      <workItem from="1549885149290" duration="539000" />
+      <workItem from="1549958336407" duration="6115000" />
+      <workItem from="1550031558926" duration="1135000" />
+      <workItem from="1550034281413" duration="10534000" />
+      <workItem from="1550115297580" duration="9949000" />
+      <workItem from="1550129888045" duration="7924000" />
+      <workItem from="1550281198579" duration="639000" />
+      <workItem from="1550282512939" duration="6141000" />
+      <workItem from="1550302973634" duration="4420000" />
+      <workItem from="1550371987570" duration="9451000" />
+      <workItem from="1550385854586" duration="14000" />
+      <workItem from="1550386162861" duration="753000" />
+      <workItem from="1550465199745" duration="1434000" />
+      <workItem from="1550923175816" duration="898000" />
+      <workItem from="1550925499512" duration="261000" />
+      <workItem from="1550925774718" duration="159000" />
+      <workItem from="1550926016567" duration="686000" />
+      <workItem from="1550927079671" duration="1714000" />
+      <workItem from="1550981030643" duration="1008000" />
+      <workItem from="1550988249469" duration="609000" />
+      <workItem from="1551016467004" duration="907000" />
+      <workItem from="1551055029065" duration="1686000" />
+      <workItem from="1551870156166" duration="2306000" />
+      <workItem from="1552302275294" duration="6565000" />
+      <workItem from="1552388395703" duration="6426000" />
+      <workItem from="1552459678557" duration="3107000" />
+      <workItem from="1552475300945" duration="5401000" />
+      <workItem from="1552561048393" duration="2483000" />
+      <workItem from="1552563548566" duration="919000" />
+      <workItem from="1552634367564" duration="190000" />
+      <workItem from="1552634575289" duration="851000" />
+      <workItem from="1552906551834" duration="4476000" />
+      <workItem from="1552911215581" duration="100000" />
+      <workItem from="1552911629281" duration="1429000" />
+      <workItem from="1552992871265" duration="208000" />
+      <workItem from="1552993488255" duration="248000" />
+      <workItem from="1552993753998" duration="5935000" />
+      <workItem from="1553000476429" duration="3376000" />
+      <workItem from="1553079861994" duration="637000" />
+      <workItem from="1553096448258" duration="70000" />
+      <workItem from="1553166223629" duration="6363000" />
+      <workItem from="1553416254420" duration="1905000" />
+      <workItem from="1553424996324" duration="4296000" />
+      <workItem from="1553429319626" duration="869000" />
+      <workItem from="1553511534278" duration="6442000" />
+      <workItem from="1553597908639" duration="5939000" />
+      <workItem from="1553690896695" duration="530000" />
+      <workItem from="1553782380303" duration="96000" />
+      <workItem from="1553826935558" duration="776000" />
+      <workItem from="1553832822966" duration="383000" />
+      <workItem from="1553913014016" duration="748000" />
+      <workItem from="1553913901240" duration="2185000" />
+      <workItem from="1554009349983" duration="7210000" />
+      <workItem from="1554029569419" duration="5338000" />
+      <workItem from="1554115928328" duration="426000" />
+      <workItem from="1554512668597" duration="339000" />
+      <workItem from="1554513081188" duration="243000" />
+      <workItem from="1554634597581" duration="430000" />
+      <workItem from="1554635042157" duration="2516000" />
+      <workItem from="1554638162939" duration="1050000" />
+      <workItem from="1554639240107" duration="583000" />
+      <workItem from="1554640630650" duration="47000" />
+      <workItem from="1554721959809" duration="5362000" />
+      <workItem from="1554808374900" duration="2183000" />
+      <workItem from="1554810576533" duration="2211000" />
+      <workItem from="1554982631731" duration="3425000" />
+      <workItem from="1554986270895" duration="116000" />
+      <workItem from="1555327354929" duration="488000" />
+      <workItem from="1555328549045" duration="297000" />
+    </task>
+    <task id="LOCAL-00001" summary="this is splash API basic usage">
+      <created>1554985470156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554985470156</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this is splash API basic usage">
+      <created>1554985775380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554985775380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="201157000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49574107" visible="true" weight="0.20770393" />
+      <window_info id="Favorites" order="1" sideWeight="0.50425893" side_tool="true" weight="0.20770393" />
+      <window_info id="Structure" order="2" sideWeight="0.49874687" weight="0.1971299" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49697885" weight="0.36115843" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32879046" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49773413" weight="0.32879046" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5030211" side_tool="true" weight="0.36115843" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4954683" weight="0.42930153" />
+      <window_info anchor="bottom" x="6" y="287" width="1354" height="163" id="Python Console" order="12" weight="0.32879046" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32879046" />
+      <window_info anchor="bottom" x="16" y="287" width="1334" height="143" id="Database Console" order="14" weight="0.32879046" />
+      <window_info anchor="bottom" id="Thumbnails" order="15" weight="0.32879046" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32930514" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32930514" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" weight="0.14728096" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.32930514" />
+      <window_info anchor="right" id="JSON Viewer" order="7" weight="0.32930514" />
+      <window_info anchor="right" id="Redis Servers" order="8" weight="0.32930514" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is splash API basic usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is splash API basic usage" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/zhongguogushiciwang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/ThreadDemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/Other/baisibudejie.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1071" selection-start-line="1071" selection-end-line="1071" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/baisibudeqijie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/doutula.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/lxml_analyzeDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_open_tabs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_cookie and proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/render.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="214" column="17" selection-start-line="211" selection-start-column="13" selection-end-line="214" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/csvfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/jsonfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/pymongo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="635" selection-start-line="635" selection-end-line="635" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/boss_zhipin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/ocrDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/Other/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/flask_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3_spider/test2.py" />
+    <entry file="file://$PROJECT_DIR$/Python3_spider/Other/maoyan_top100.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="787" column="103" lean-forward="true" selection-start-line="787" selection-start-column="103" selection-end-line="787" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/support/expected_conditions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="219" column="37" selection-start-line="219" selection-start-column="32" selection-end-line="219" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3_spider/test.py" />
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1585">
+          <caret line="237" column="13" lean-forward="true" selection-start-line="237" selection-start-column="13" selection-end-line="237" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP数据抓取/handle_mongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP数据抓取/douguomeishi_Demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="102" column="41" lean-forward="true" selection-start-line="102" selection-start-column="41" selection-end-line="102" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/lagou.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="101" column="42" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d67904d1-749c-46b7-a57f-98b89d98a2b6/schema/test/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/zhonguotianqiwang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/mongoDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/redis/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="648" column="30" selection-start-line="648" selection-start-column="30" selection-end-line="648" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="redis://IedisURI?type=Terminal&amp;label=127.0.0.1&amp;host=127.0.0.1&amp;port=6379&amp;password=123&amp;timestamp=1554638472515&amp;nodeHost=127.0.0.1&amp;nodePort=6379" />
+    <entry file="redis://IedisURI?type=Explorer&amp;label=127.0.0.1&amp;host=127.0.0.1&amp;port=6379&amp;password=123&amp;timestamp=1554638472515&amp;nodeHost=127.0.0.1&amp;nodePort=6379" />
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/Redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/12306_buy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="89" column="52" selection-start-line="89" selection-start-column="52" selection-end-line="89" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="194" column="4" selection-start-line="194" selection-start-column="4" selection-end-line="194" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="152" column="55" selection-start-line="152" selection-start-column="51" selection-end-line="152" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3_spider/maoyan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/exercise/fs.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/fsf.md" />
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_action_chains.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/seleniumDemo_wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/seleniumDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3_spider/toutiao_jiepai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3_spider/Other/jingdong.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pachong_StudyNote/ThreadDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python3_spider/splash_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+[console_scripts]
+wsgidav = wsgidav.server.server_cli:run
+
